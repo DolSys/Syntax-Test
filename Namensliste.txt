@@ -4,3 +4,6 @@ Sergey
 Nicole
 Tammo
 Danny
+
+
+Änderung zum Zusammenführen der Branches
