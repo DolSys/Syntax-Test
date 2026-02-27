@@ -5,6 +5,8 @@ Nicole
 Tammo
 Danny
 
+Heute ist ein schöner Tag
+
 
 Änderung zum Zusammenführen der Branches
 Team s^3
